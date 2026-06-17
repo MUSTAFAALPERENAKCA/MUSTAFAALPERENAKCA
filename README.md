@@ -31,7 +31,7 @@ const alperen = {
   education:  "Computer Engineering @ Sakarya University",
   role:       "Fullstack Developer",
   interests:  ["Computer Vision", "AI/ML", "Mobile Apps", "Clean Architecture"],
-  currentlyBuilding: "EdTech SaaS platform (NeuroRise) 🧠",
+  currentlyBuilding: "DTx SaaS platform for ADHD attention training (ZeKids) 🧠",
   openToWork: true,
 };
 ```
@@ -65,7 +65,7 @@ const alperen = {
 | | Project | Description | Stack |
 |---|---------|-------------|-------|
 | 🚗 | [**plaka-tanima**](https://github.com/MUSTAFAALPERENAKCA/plaka-tanima) | Turkish license plate detection & OCR | Python · YOLOv9 ONNX · OpenCV · Streamlit |
-| 🧠 | [**NeuroRise**](https://github.com/MUSTAFAALPERENAKCA/NeuroRise) | EdTech SaaS — children's attention training with org management, analytics & subscriptions | React · TypeScript · ASP.NET Core |
+| 🧠 | [**ZeKids**](https://github.com/MUSTAFAALPERENAKCA/ZeKids) | Digital therapeutics SaaS for ADHD — game-based attention training with MRT/RTV analytics & parent reports | Angular 18 · .NET 8 · PostgreSQL |
 | 👁️ | [**VisionGuide**](https://github.com/MUSTAFAALPERENAKCA/G-rme-Engelliler-in-Engel-Tespit-Uygulamas-) | Real-time obstacle detection for visually impaired | React Native · Expo · TFLite |
 | 📋 | [**MevzuatUygunluk**](https://github.com/MUSTAFAALPERENAKCA/MevzuatUygunluk) | AI-powered regulatory document compliance checker | C# · ASP.NET Core · Gemini AI |
 | 🏥 | [**InnovarLab**](https://github.com/MUSTAFAALPERENAKCA/inovarProject) | Medical lab info system — patient & blood tube tracking | C# · Clean Architecture · Angular |
